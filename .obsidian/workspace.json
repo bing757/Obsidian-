@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "5df03a284e184b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a22fd6d6b10d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bddc358e0f7a188b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/GitHub的使用和配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f6d4c22495ca837",
+    "type": "split",
+    "children": [
+      {
+        "id": "06cf687bf39e9f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47fe3f0b8c85dd29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "b16405ca47496528",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#点击蓝色1后再点击file1可以查看更改",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "732ac3b95fcaa7b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "51975903a5153351",
+    "type": "split",
+    "children": [
+      {
+        "id": "081efabbaaebd4f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdd40ed52f8e88c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/GitHub的使用和配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14a17879a22a526e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/GitHub的使用和配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0e046f247279e18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbae170c434a6dc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/GitHub的使用和配置.md"
+              }
+            }
+          },
+          {
+            "id": "d6e9b1e2d0becd65",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-day-planner:Timeline": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "bddc358e0f7a188b",
+  "lastOpenFiles": [
+    "Git/分支和其基本操作.md",
+    "Git/解决和合并冲突.md",
+    "Git/分支管理和工作流程.md",
+    "Git/回退和rebase.md",
+    "Git/分支管理和工作流程（完结）.md",
+    "附件文件/Pasted image 20240705100222.png",
+    "附件文件/Pasted image 20240705100018.png",
+    "附件文件/Pasted image 20240705095530.png",
+    "附件文件/Pasted image 20240705095502.png",
+    "附件文件/Pasted image 20240705095448.png",
+    "附件文件/Pasted image 20240705095030.png",
+    "附件文件/Pasted image 20240705094645.png",
+    "附件文件/Pasted image 20240705094528.png",
+    "附件文件/Pasted image 20240705092645.png",
+    "附件文件/Pasted image 20240705091054.png",
+    "Git/Gitee码云的使用和GitLab极狐本地化部署.md",
+    "Git/git reset 回退版本.md",
+    "Git/git diff 查看差异.md",
+    "Git/添加add和提交commit文件.md",
+    "Git/关联本地仓库和远程仓库.md",
+    "Git/GitHub的使用和配置.md",
+    "Git/在vscode中使用git.md",
+    "Git/gitignore忽略文件，通配符(最后面几张截图）.md",
+    "Git/git rm删除文件.md",
+    "视频知识/nano用法.md",
+    "视频知识/shell基本语法和功能.md",
+    "节点.md",
+    "视频知识/vi(m)用法.md",
+    "Git/简介.md",
+    "Obsidian用法及其md语法.md",
+    "Pasted.md",
+    "Git/新建init,git clone仓库（版本库）.md",
+    "Git/git的工作区域和文件状态.md",
+    "HNU课内/思政/马原.md",
+    "视频知识/linux下常见目录作用及用法.md",
+    "视频知识/python基础语法.md",
+    "Git",
+    "图片/未命名",
+    "视频知识",
+    "附件文件",
+    "新建文件夹",
+    "深度学习",
+    "AI相关",
+    "Python",
+    "HNU课内/思政",
+    "HNU课内",
+    "未命名.canvas",
+    "Notions1/未命名 2.canvas",
+    "未命名 1.canvas",
+    "Notion1/未命名 1 1/未命名/未命名.canvas"
+  ]
+}
