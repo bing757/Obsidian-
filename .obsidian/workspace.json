@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/GitHub的使用和配置.md",
+                "file": "Git/关联本地仓库与远程仓库实践.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/GitHub的使用和配置.md",
+                "file": "Git/关联本地仓库与远程仓库实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/GitHub的使用和配置.md",
+                "file": "Git/关联本地仓库与远程仓库实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/GitHub的使用和配置.md"
+                "file": "Git/关联本地仓库与远程仓库实践.md"
               }
             }
           },
@@ -161,27 +161,29 @@
   },
   "active": "bddc358e0f7a188b",
   "lastOpenFiles": [
+    "附件文件/Pasted image 20240705114117.png",
+    "附件文件/Pasted image 20240705114028.png",
+    "附件文件/Pasted image 20240705113956.png",
+    "附件文件/Pasted image 20240705113922.png",
+    "附件文件/Pasted image 20240705113908.png",
+    "附件文件/Pasted image 20240705113846.png",
+    "Git/关联本地仓库和远程仓库.md",
+    "Git/关联本地仓库与远程仓库实践.md",
+    "附件文件/Pasted image 20240705111549.png",
+    "附件文件/Pasted image 20240705111444.png",
+    "附件文件/Pasted image 20240705111225.png",
+    "附件文件/Pasted image 20240705110947.png",
+    "附件文件/Pasted image 20240705110806.png",
+    "Git/回退和rebase.md",
+    "Git/GitHub的使用和配置.md",
     "Git/分支和其基本操作.md",
     "Git/解决和合并冲突.md",
     "Git/分支管理和工作流程.md",
-    "Git/回退和rebase.md",
     "Git/分支管理和工作流程（完结）.md",
-    "附件文件/Pasted image 20240705100222.png",
-    "附件文件/Pasted image 20240705100018.png",
-    "附件文件/Pasted image 20240705095530.png",
-    "附件文件/Pasted image 20240705095502.png",
-    "附件文件/Pasted image 20240705095448.png",
-    "附件文件/Pasted image 20240705095030.png",
-    "附件文件/Pasted image 20240705094645.png",
-    "附件文件/Pasted image 20240705094528.png",
-    "附件文件/Pasted image 20240705092645.png",
-    "附件文件/Pasted image 20240705091054.png",
     "Git/Gitee码云的使用和GitLab极狐本地化部署.md",
     "Git/git reset 回退版本.md",
     "Git/git diff 查看差异.md",
     "Git/添加add和提交commit文件.md",
-    "Git/关联本地仓库和远程仓库.md",
-    "Git/GitHub的使用和配置.md",
     "Git/在vscode中使用git.md",
     "Git/gitignore忽略文件，通配符(最后面几张截图）.md",
     "Git/git rm删除文件.md",
@@ -195,8 +197,6 @@
     "Git/新建init,git clone仓库（版本库）.md",
     "Git/git的工作区域和文件状态.md",
     "HNU课内/思政/马原.md",
-    "视频知识/linux下常见目录作用及用法.md",
-    "视频知识/python基础语法.md",
     "Git",
     "图片/未命名",
     "视频知识",
